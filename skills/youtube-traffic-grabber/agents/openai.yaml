@@ -1,0 +1,7 @@
+interface:
+  display_name: "YouTube Traffic"
+  short_description: "Plan YouTube referral traffic"
+  default_prompt: "Use $youtube-traffic-grabber to plan YouTube content, SEO, CTAs, and referral traffic for this property."
+
+policy:
+  allow_implicit_invocation: true
