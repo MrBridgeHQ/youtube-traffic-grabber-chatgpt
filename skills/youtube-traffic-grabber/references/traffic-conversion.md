@@ -1,15 +1,15 @@
-# Traffic Conversion — Turning Views Into Off-Platform Clicks and Conversions
+# Traffic Conversion - Turning Views Into Off-Platform Clicks and Conversions
 
-This page owns the **conversion half** of the YouTube funnel. `youtube-traffic-doctrine.md` and `youtube-seo.md` get the right viewer to watch the video (discovery); this page turns that watcher into someone who leaves YouTube and lands on one of your assets — a tool sign-up, a site visit, a lead captured. Discovery without conversion is vanity; conversion without discovery is a CTA nobody sees. You need both, and they're owned by different files.
+This page owns the **conversion half** of the YouTube funnel. `youtube-traffic-doctrine.md` and `youtube-seo.md` get the right viewer to watch the video (discovery); this page turns that watcher into someone who leaves YouTube and lands on one of your assets - a tool sign-up, a site visit, a lead captured. Discovery without conversion is vanity; conversion without discovery is a CTA nobody sees. You need both, and they're owned by different files.
 
-The directing principle, stated once: **the video earns the click; the CTA only collects it.** A viewer clicks through to your site because the video was genuinely useful and the next step is obviously valuable to *them* — not because you asked harder or placed the link in more spots. Every placement below is a way of making an already-earned click easy and obvious. None of them manufactures a click that the content didn't earn. When a placement starts trying to do the content's job ("link in bio, link in description, link in comments, link link link"), it stops converting and starts repelling — and it edges toward the off-platform-diversion and over-promotion patterns that depress retention and, at the extreme, draw spam enforcement (`ethics-policy.md`).
+The directing principle, stated once: **the video earns the click; the CTA only collects it.** A viewer clicks through to your site because the video was genuinely useful and the next step is obviously valuable to *them* - not because you asked harder or placed the link in more spots. Every placement below is a way of making an already-earned click easy and obvious. None of them manufactures a click that the content didn't earn. When a placement starts trying to do the content's job ("link in bio, link in description, link in comments, link link link"), it stops converting and starts repelling - and it edges toward the off-platform-diversion and over-promotion patterns that depress retention and, at the extreme, draw spam enforcement (`ethics-policy.md`).
 
 Two rules apply to **every** placement on this page, no exceptions:
 
-1. **Every tracked link carries your attribution/affiliate parameter.** The funnel URL is your destination plus the attribution query string (e.g. `https://example.com/page?fpr=YOUR_ID`) — never a bare link. A clean link forfeits referral attribution. (Use the same parameter everywhere across your channels for consistent attribution.)
-2. **All CTA prose is humanized** before it's published — descriptions, pinned comments, verbal CTA scripts, end-screen text. This file specifies *what to say and where*; humanization makes it read human. It does not restate that doctrine.
+1. **Every tracked link carries your attribution/affiliate parameter.** The funnel URL is your destination plus the attribution query string (e.g. `https://example.com/page?fpr=YOUR_ID`) - never a bare link. A clean link forfeits referral attribution. (Use the same parameter everywhere across your channels for consistent attribution.)
+2. **All CTA prose is humanized** before it's published - descriptions, pinned comments, verbal CTA scripts, end-screen text. This file specifies *what to say and where*; humanization makes it read human. It does not restate that doctrine.
 
-And one frame inherited from the doctrine: **YouTube's outbound links are `nofollow`.** Every click you win here is *traffic and brand*, not link equity. You are optimizing clicks-to-site and conversions, never "links." Actual link-building for SEO authority is a different job — use a dedicated off-page method.
+And one frame inherited from the doctrine: **YouTube's outbound links are `nofollow`.** Every click you win here is *traffic and brand*, not link equity. You are optimizing clicks-to-site and conversions, never "links." Actual link-building for SEO authority is a different job - use a dedicated off-page method.
 
 ---
 
@@ -17,112 +17,112 @@ And one frame inherited from the doctrine: **YouTube's outbound links are `nofol
 
 Practitioners obsess over placements (where the link goes) and underweight the destination (what the click lands on). Both decide conversion, and the destination usually decides more:
 
-- **Placement** is *visibility* — how likely the right viewer is to see and use the link. The placements below are ranked by visibility and warmth.
-- **Destination** is *motivation* — the reason the viewer clicks at all. A perfectly placed link to a generic homepage converts worse than a buried link to a free dataset the video just demonstrated.
+- **Placement** is *visibility* - how likely the right viewer is to see and use the link. The placements below are ranked by visibility and warmth.
+- **Destination** is *motivation* - the reason the viewer clicks at all. A perfectly placed link to a generic homepage converts worse than a buried link to a free dataset the video just demonstrated.
 
 The conversion multiplier is the **lead magnet / bridge offer**: a specific, relevant, valuable destination that matches what the video was about. Placements move clicks only when there's a compelling reason to click. This is why the lead-magnet section below is the most important on the page, not the placement catalog.
 
 ---
 
-## Placement 1 — the description link, above the fold
+## Placement 1 - the description link, above the fold
 
-This is the workhorse. On both desktop and mobile, YouTube shows only the **first 2–3 lines of the description** before the **"...more"** truncation. Anything below that is invisible until the viewer expands — and most never do. So the link, or a one-line hook plus the link, must live **above the fold**, in those first lines.
+This is the workhorse. On both desktop and mobile, YouTube shows only the **first 2–3 lines of the description** before the **"...more"** truncation. Anything below that is invisible until the viewer expands - and most never do. So the link, or a one-line hook plus the link, must live **above the fold**, in those first lines.
 
 **The structure that converts:**
 
 ```
 [One-line value hook tied to the video topic.]
-👉 [The link — with your attribution param if it's a tracked URL]
+👉 [The link - with your attribution param if it's a tracked URL]
 
 ────────
 [Everything else: longer description, timestamps/chapters,
  secondary links, channel boilerplate, social handles.]
 ```
 
-The hook earns the expansion-or-click; the link collects it. Do **not** make the raw URL the literal first token of every video by default — that reads as a billboard, can get pulled into search snippets as ugly noise, and (per `youtube-seo.md`) the top of the description is prime keyword real estate you don't want to waste on a naked URL. Lead with one line of value, then the link.
+The hook earns the expansion-or-click; the link collects it. Do **not** make the raw URL the literal first token of every video by default - that reads as a billboard, can get pulled into search snippets as ugly noise, and (per `youtube-seo.md`) the top of the description is prime keyword real estate you don't want to waste on a naked URL. Lead with one line of value, then the link.
 
 **Calibration (this is a real effectiveness trade-off, not a policy rule):**
-- Lead with a value hook, then the link — don't bury it, don't make it robotic.
+- Lead with a value hook, then the link - don't bury it, don't make it robotic.
 - **Don't push the site in every single video.** A channel where every description screams "VISIT MY SITE" trains viewers to ignore the CTA and signals over-promotion. Vary it; let some videos be pure value with a soft, lower-placed link.
 - Put **one primary CTA above the fold.** Multiple competing links above the fold split the click and dilute the ask. Secondary links go below the "...more" line.
 
 **Worked examples:**
 
 > *Tool demo video (dev channel):*
-> `Scrape product prices at scale — no proxies to manage, no anti-bot headaches.`
+> `Scrape product prices at scale - no proxies to manage, no anti-bot headaches.`
 > `👉 Try the tool (free tier): https://example.com/price-scraper?fpr=YOUR_ID`
 
 > *Market-data video (consumer channel, FR):*
-> `Les 50 produits les plus recherchés du mois — données marché, mises à jour.`
+> `Les 50 produits les plus recherchés du mois - données marché, mises à jour.`
 > `👉 Le classement complet : https://example.com/...`
 
-Match the destination to the video and to the channel's property (the dev channel points at tools / the docs site; the consumer channels at their content/e-commerce sites — see `channel-strategy.md` for the property→channel mapping).
+Match the destination to the video and to the channel's property (the dev channel points at tools / the docs site; the consumer channels at their content/e-commerce sites - see `channel-strategy.md` for the property→channel mapping).
 
 ---
 
-## Placement 2 — the pinned comment
+## Placement 2 - the pinned comment
 
 A **pinned comment sits at the top of the comment section**, above all others, and is editable after publish. It's the cheapest reinforcement of the description link and catches viewers who scroll to comments before (or instead of) expanding the description.
 
 Make it *additive*, not a copy-paste of the description:
 
-- Restate the value in the viewer's words ("A few people asked where to get the dataset — here it is 👇"), then the link (with your attribution param if tracked).
+- Restate the value in the viewer's words ("A few people asked where to get the dataset - here it is 👇"), then the link (with your attribution param if tracked).
 - Use it to answer the predictable top question the video raises, and attach the link as the answer's natural endpoint.
 - Because it's editable, update it when the offer changes (new tool version, refreshed dataset, fixed link) without re-uploading the video.
 
-A pinned comment that's just "LINK: <url>" converts worse than one that gives a reason. The comment is a tiny piece of helpful content with the link as its footnote — the same shape as a good external comment (`external-engagement.md`), just on your own video where self-promotion is expected and welcome.
+A pinned comment that's just "LINK: <url>" converts worse than one that gives a reason. The comment is a tiny piece of helpful content with the link as its footnote - the same shape as a good external comment (`external-engagement.md`), just on your own video where self-promotion is expected and welcome.
 
 ---
 
-## Placement 3 — end screens
+## Placement 3 - end screens
 
-**End screens** occupy the **last 5–30 seconds** of a video and carry clickable elements. For conversion they're prime real estate: the viewer who reached the end is your **warmest** — they consumed the whole thing and are primed for a next step.
+**End screens** occupy the **last 5–30 seconds** of a video and carry clickable elements. For conversion they're prime real estate: the viewer who reached the end is your **warmest** - they consumed the whole thing and are primed for a next step.
 
-- For channels eligible to link to an external site (Associated Website / verified site link), an end-screen element can point **off-platform** to a landing page. Otherwise, end screens link to **another video, a playlist, or subscribe** — which keeps the warm viewer on a path that *eventually* converts (a related video whose description carries the off-site CTA).
-- Design the last 20–30s of the script to *set up* the end screen: don't let the value end and then bolt on a card grid. Narrate the next step ("if you want the full dataset, it's linked — and this next video shows the advanced version").
+- For channels eligible to link to an external site (Associated Website / verified site link), an end-screen element can point **off-platform** to a landing page. Otherwise, end screens link to **another video, a playlist, or subscribe** - which keeps the warm viewer on a path that *eventually* converts (a related video whose description carries the off-site CTA).
+- Design the last 20–30s of the script to *set up* the end screen: don't let the value end and then bolt on a card grid. Narrate the next step ("if you want the full dataset, it's linked - and this next video shows the advanced version").
 - Don't cram. One or two end-screen elements with a clear hierarchy beat a wall of thumbnails.
 
-Faceless note: end screens work without a presenter — a clean outro frame with on-screen text and the clickable elements is enough. (Format mechanics live in `content-formats.md`.)
+Faceless note: end screens work without a presenter - a clean outro frame with on-screen text and the clickable elements is enough. (Format mechanics live in `content-formats.md`.)
 
 ---
 
-## Placement 4 — cards
+## Placement 4 - cards
 
 **Cards** are clickable elements that appear **mid-video**, timed to the exact moment the link is most relevant. Use them when the value of clicking peaks *during* the content, not just at the end:
 
 - In a tool demo, drop a card to the tool page at the moment you show the result it produces.
 - In a data explainer, card the full ranking/landing page right as you reference "the complete list."
-- Timing beats frequency. A card fired at the relevant second converts; a card grid scattered through the video distracts and depresses retention (which hurts discovery — see `youtube-seo.md`).
+- Timing beats frequency. A card fired at the relevant second converts; a card grid scattered through the video distracts and depresses retention (which hurts discovery - see `youtube-seo.md`).
 
 Don't overload. Too many cards turn the video into a billboard and pull attention away from the content that's earning the click.
 
 ---
 
-## Placement 5 — the verbal CTA (+ on-screen text)
+## Placement 5 - the verbal CTA (+ on-screen text)
 
 Often the **single biggest driver**, because it lives *inside the content* where attention already is, not in chrome the viewer might skip. Say it and show it:
 
 - **Name the value of clicking, not the act of clicking.** "The full dataset is linked in the description" beats "link in the description, go check it out." State *what they get* and *why now*.
-- Tie it to the moment of peak relevance — right after you've demonstrated the result the link delivers.
+- Tie it to the moment of peak relevance - right after you've demonstrated the result the link delivers.
 - Reinforce with **on-screen text** (a lower-third / caption): "Full tool → description." Faceless content leans on this because there's no face to direct attention; the on-screen text *is* the pointer.
 - Keep it once or twice, placed where it's earned. A video that verbally hawks the link every 30 seconds reads as a sales pitch and loses the room.
 
-The phrasing rule across all verbal CTAs: **value-first, native, never a hard sell.** "Here's the complete breakdown on the blog" converts; "SMASH that link and BUY NOW" repels. Over-promotion depresses both clicks and retention — the doctrine's central conversion principle.
+The phrasing rule across all verbal CTAs: **value-first, native, never a hard sell.** "Here's the complete breakdown on the blog" converts; "SMASH that link and BUY NOW" repels. Over-promotion depresses both clicks and retention - the doctrine's central conversion principle.
 
 ---
 
-## Always-on placements — channel chrome
+## Always-on placements - channel chrome
 
 These aren't per-video; they run 24/7 and catch viewers who arrive at the channel from any video:
 
-- **Channel banner link** — point it at a specific high-value offer (a flagship tool, the studies hub), not a bare homepage.
-- **About-section links** — the full set of property links; for the dev channel, include the tool/listing links (with your attribution param) and the docs site; for the consumer channels, the content/e-commerce sites.
+- **Channel banner link** - point it at a specific high-value offer (a flagship tool, the studies hub), not a bare homepage.
+- **About-section links** - the full set of property links; for the dev channel, include the tool/listing links (with your attribution param) and the docs site; for the consumer channels, the content/e-commerce sites.
 
 Treat these as the always-available pathway, not the primary converter. They support the per-video CTAs; they don't replace them.
 
 ---
 
-## The lead magnet — the conversion multiplier (most important section)
+## The lead magnet - the conversion multiplier (most important section)
 
 A perfectly placed link to a weak destination converts badly. A buried link to a *great* destination still converts. The destination is the lever, and the highest-converting destination is a **lead magnet / bridge offer**: something genuinely valuable, free, and **topically matched to the video**, that the viewer wants enough to leave YouTube for.
 
@@ -130,40 +130,40 @@ A perfectly placed link to a weak destination converts badly. A buried link to a
 
 **Lead-magnet types, ranked by fit:**
 
-- **Free study / dataset** — often the strongest hook. A video that demonstrates an insight ("the 50 most-searched products this month," "what we found scraping 10k pages") with the *full data/study* one click away is the cleanest value-for-click trade there is. The data is both the content's proof and the CTA's reward. Maps to a `/studies` hub or to market reports.
-- **Free tool / free tier** — for a tool, the sign-up *is* the lead magnet. The video shows the tool working; the CTA is "run it yourself, free tier" → the tool page with your attribution param. This is the highest-intent conversion on the dev channel: the viewer is already evaluating the tool.
-- **Template / checklist / config** — a ready-to-use input config, a checklist, a setup snippet. Low production cost, high perceived value, perfectly matched to a tutorial video.
-- **Email course / gated guide** — captures a lead (email) rather than just a click; appropriate when the goal is nurture, not immediate sign-up. Use sparingly — a gate adds friction that a free dataset doesn't.
-- **Members-only / deeper content** — the long-form version of what the video teased.
+- **Free study / dataset** - often the strongest hook. A video that demonstrates an insight ("the 50 most-searched products this month," "what we found scraping 10k pages") with the *full data/study* one click away is the cleanest value-for-click trade there is. The data is both the content's proof and the CTA's reward. Maps to a `/studies` hub or to market reports.
+- **Free tool / free tier** - for a tool, the sign-up *is* the lead magnet. The video shows the tool working; the CTA is "run it yourself, free tier" → the tool page with your attribution param. This is the highest-intent conversion on the dev channel: the viewer is already evaluating the tool.
+- **Template / checklist / config** - a ready-to-use input config, a checklist, a setup snippet. Low production cost, high perceived value, perfectly matched to a tutorial video.
+- **Email course / gated guide** - captures a lead (email) rather than just a click; appropriate when the goal is nurture, not immediate sign-up. Use sparingly - a gate adds friction that a free dataset doesn't.
+- **Members-only / deeper content** - the long-form version of what the video teased.
 
-**Why this works and isn't spam:** the lead magnet makes the CTA *value-first by construction*. You're not asking the viewer to do you a favor by clicking; you're offering them the next useful thing. That's the difference between a conversion path and a link drop. It also keeps you clear of the off-platform-diversion line in `ethics-policy.md`: the video is genuinely informative on its own, and the link leads to *more genuine value* — not a thin doorway whose only purpose is to push viewers off YouTube.
+**Why this works and isn't spam:** the lead magnet makes the CTA *value-first by construction*. You're not asking the viewer to do you a favor by clicking; you're offering them the next useful thing. That's the difference between a conversion path and a link drop. It also keeps you clear of the off-platform-diversion line in `ethics-policy.md`: the video is genuinely informative on its own, and the link leads to *more genuine value* - not a thin doorway whose only purpose is to push viewers off YouTube.
 
 ---
 
-## Example funnels — end to end
+## Example funnels - end to end
 
 Map the whole path so the CTA, destination, and channel align.
 
-### Funnel A — tool demo → sign-up (dev channel)
+### Funnel A - tool demo → sign-up (dev channel)
 
 | Stage | Content |
 |---|---|
-| **Video** | Faceless screen-rec: "Scrape product prices without getting blocked" — show the tool running, the data coming out. |
+| **Video** | Faceless screen-rec: "Scrape product prices without getting blocked" - show the tool running, the data coming out. |
 | **Lead magnet** | The tool itself, free tier. The sign-up is the reward. |
-| **Above-fold description** | `Scrape at scale — no proxy/anti-bot setup.` + `👉 https://example.com/price-scraper?fpr=YOUR_ID` |
-| **Verbal CTA** | At the result reveal: "If you want to run this on your own list, the tool's linked — there's a free tier." |
+| **Above-fold description** | `Scrape at scale - no proxy/anti-bot setup.` + `👉 https://example.com/price-scraper?fpr=YOUR_ID` |
+| **Verbal CTA** | At the result reveal: "If you want to run this on your own list, the tool's linked - there's a free tier." |
 | **Card** | Fired at the result reveal → tool page (with attribution param). |
 | **End screen** | Tool page (if external link eligible) or the next tool-demo video whose description carries the link. |
 | **Pinned comment** | "Free tier is enough to test it on a few hundred items 👇 [link with attribution param]" |
 
-### Funnel B — market-data video → site (consumer channel)
+### Funnel B - market-data video → site (consumer channel)
 
 | Stage | Content |
 |---|---|
 | **Video** | Faceless data-viz + voiceover: "Top 50 most-searched products this month." |
-| **Lead magnet** | The full ranking / market report — the complete dataset the video sampled. |
+| **Lead magnet** | The full ranking / market report - the complete dataset the video sampled. |
 | **Above-fold description** | `Le classement complet du mois (données marché).` + `👉 https://example.com/...` |
-| **Verbal CTA** | "I only showed the top 10 — the full 50, with prices, is on the site." |
+| **Verbal CTA** | "I only showed the top 10 - the full 50, with prices, is on the site." |
 | **Card** | Fired at "and here's the rest of the list" → the report page. |
 | **End screen** | The report page (if eligible) or the next related ranking video. |
 | **Pinned comment** | "Full ranking + price moves here 👇 [link]" |
@@ -174,7 +174,7 @@ Pick the destination by audience and language: the FR-language property for FR i
 
 ## Measurement hook
 
-Conversion only improves if you can see it. UTM-tag every off-site YouTube link (treat YouTube as its own GA4 source); your attribution/affiliate parameter *is* the platform-side attribution. Compare CTR across description vs. card vs. end screen separately so you optimize the placements that actually convert. The full KPI framework — clicks-to-site, conversions via the attribution param, per-placement CTR — lives in `measurement.md`. This page produces the CTAs; that page tells you which ones worked.
+Conversion only improves if you can see it. UTM-tag every off-site YouTube link (treat YouTube as its own GA4 source); your attribution/affiliate parameter *is* the platform-side attribution. Compare CTR across description vs. card vs. end screen separately so you optimize the placements that actually convert. The full KPI framework - clicks-to-site, conversions via the attribution param, per-placement CTR - lives in `measurement.md`. This page produces the CTAs; that page tells you which ones worked.
 
 ---
 

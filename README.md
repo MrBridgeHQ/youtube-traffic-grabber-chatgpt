@@ -1,4 +1,4 @@
-# youtube-traffic-grabber — ChatGPT / Codex Agent Skill
+# youtube-traffic-grabber - ChatGPT / Codex Agent Skill
 
 An Agent Skill **for ChatGPT (OpenAI Codex)**. **Target LLM: ChatGPT / Codex.**
 
